@@ -1,0 +1,11 @@
+body{
+    background-color: rgba(247, 243, 243, 0.301)
+}
+.img-detail{
+    background-image: url(details2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
