@@ -1,6 +1,5 @@
 import { React, useEffect } from "react";
 import Item from "./Product";
-import { items } from "./items";
 import { storeProducts } from "./data";
 import { ConsumerContext } from "./context";
 import { Link } from "react-router-dom";
